@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Novani Indra Kustanti
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning SQL, PYTHON 
+- 🌱 I’m currently learning SQL, PYTHON, and Machine Learning 
 - 📫 How to reach me Linkedin : Novani Indra Kustanti, Twitter: @novaniindra
